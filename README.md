@@ -6,13 +6,13 @@ About Me
 
 🎓 Double Major: Computer Science & Mathematics
 
-💻 Programming Languages: HTML, CSS, C, Python, Node.js
+💻 Programming Languages: HTML, CSS, JS, Python, Typescript, Dart with Flutter.
 
 📊 Interdisciplinary Researcher: I’m exploring the powerful ways mathematics can enhance technological innovation and drive impactful solutions.
 
 
 I’m always excited to connect with fellow tech enthusiasts, mathematicians and problem solvers. Feel free to reach out!
 
-LinkedIn🔗: www.linkedin.com/in/wesley-kuria-b04946286
+LinkedIn🔗: www.linkedin.com/in/wesley-kuria
 
 Email📨: wesleykuria@yahoo.com
