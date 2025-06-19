@@ -2,8 +2,6 @@
 <p align="center">A Mathematics and Computer Science student at Kenyatta University with a strong passion for the intersection of technology, mathematics and societal problem-solving. I’m always excited to connect with fellow tech enthusiasts, mathematicians and problem solvers. Feel free to reach out! I also dabble in writing, check out my block </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wesleykuria" alt="wesleykuria" /></a> </p>
-
 How to reach me **wesleyisraelkuria@gmail.com**
 Check out my LinkedIn: www.linkedin.com/in/wesley-kuria
 
