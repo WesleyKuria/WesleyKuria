@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wesley</h1>
-<p align="center">A Mathematics and Computer Science student at Kenyatta University with a strong passion for the intersection of technology, mathematics and societal problem-solving, I also dabble in writing. I’m always excited to connect with fellow tech enthusiasts, mathematicians and problem solvers. Feel free to reach out!  </p>
+<p align="center">A Mathematician with a strong passion for the intersection of technology, mathematics and societal problem-solving, I also dabble in writing. I’m always excited to connect with fellow tech enthusiasts, mathematicians and problem solvers. Feel free to reach out!  </p>
 
 
 How to reach me **wesleyisraelkuria@gmail.com**
