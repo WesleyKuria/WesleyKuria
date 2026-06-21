@@ -20,7 +20,7 @@ Check out my LinkedIn: www.linkedin.com/in/wesley-kuria
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 <h3 align="left">You can also support me ;) </h3>
-<p><a href="https://ko-fi.com/wesleyk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wesleyk" /></a></p><br><br>
+<p><a href="https://buymesoda.com/06qOOZwuyMMPH0TFwTRSH3V5sxE2"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wesleyk" /></a></p><br><br>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleykuria&show_icons=true&locale=en&layout=compact" alt="wesleykuria" /></p>
